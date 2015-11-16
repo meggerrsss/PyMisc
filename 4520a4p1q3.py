@@ -2,6 +2,14 @@ __author__ = 'Meghan'
 
 import math
 
+# PHYC 4520
+# Fall 2015
+# Assignment 4
+# Part 1
+# Question 3
+# "Balloon Payload"
+
+
 r = 0.3 /2                        #m
 vol = 4.0*math.pi*r**3 /3.0     #m^3
 mb = 5.0/1000                   #kg
