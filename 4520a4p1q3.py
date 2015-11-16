@@ -21,14 +21,14 @@ desmass = 20.0                  #kg
 ball = desmass/pay              #number of balloons
 
 
-print "radius                           = {0} m".format(r)
-print "volume                           = {0} m^3".format(vol)
-print "moles of Helium                  = {0} moles".format(nHe)
-print "mass of Helium                   = {0} kg".format(mHe)
-print "total mass of balloon            = {0} kg".format(m)
-print "gravitational force              = {0} N".format(Fb)
-print "buoyant force                    = {0} N".format(Fg)
-print "payload                          = {0} kg/balloon".format(pay)
-print "number of balloons to lift 20 kg = {0} balloons".format(ball)
+print "radius                           = {0} m \n" \
+      "volume                           = {1} m^3 \n" \
+      "moles of Helium                  = {2} moles \n" \
+      "mass of Helium                   = {3} kg \n" \
+      "total mass of balloon            = {4} kg \n" \
+      "gravitational force              = {5} N \n" \
+      "buoyant force                    = {6} N \n" \
+      "payload                          = {7} kg/balloon \n" \
+      "number of balloons to lift 20 kg = {8} balloons".format(r, vol, nHe, mHe, m, Fb, Fg, pay, ball)
 
 
