@@ -1,0 +1,1 @@
+import ffxiv_doodles.huntmacrogenerator
